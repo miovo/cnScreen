@@ -1,0 +1,34 @@
+html,body,.container {
+    height:100%;
+    overflow:hidden;
+
+}
+
+.container-fluid {
+    display:table;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0 0 0 0;
+    box-sizing: border-box;
+}
+
+
+.row {
+    height: 100%;
+    display: table-row;
+}
+
+.col-md-4 {   
+    background: white;
+}
+.col-md-8 {
+    background: #051b36; 
+    padding: 0 0 0 0;
+
+}
+
+.row .no-float {
+  display: table-cell;
+  float: none;
+}
