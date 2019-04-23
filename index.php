@@ -11,6 +11,16 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
+      <style type="text/css">
+        
+        .carousel-inner>.item {
+            -webkit-transition: -webkit-transform 2s ease-in-out !important;
+            -o-transition: -o-transform 1.2s ease-in-out !important;
+            transition: transform 2s ease-in-out !important;
+        }
+
+      </style>
+
     </head>
     <body>
 
@@ -31,7 +41,7 @@
                       <h5 class="card-header">Upcoming Events at CN <?php print($locationName); ?></h5>
                       <div class="card-body">
 
-                        <?php include 'events.php';?>
+                        <?php include 'ads.php';?>
 
                     </div>
                  </div>
