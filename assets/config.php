@@ -2,7 +2,7 @@
 
 	//Basic Info
 	$locationName = "Hamilton Mill";
-	$kioskURL = "https://miovo.me";
+	$kioskURL = "https://google.com";
 
 	//Social
 	$Facebook = "";
