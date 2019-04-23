@@ -41,7 +41,7 @@
                       <h5 class="card-header">Upcoming Events at CN <?php print($locationName); ?></h5>
                       <div class="card-body">
 
-                        <?php include 'ads.php';?>
+                        <?php include 'events.php';?>
 
                     </div>
                  </div>
