@@ -1,5 +1,5 @@
 <?php
-    include("assets/senseiConfig.php");
+    include("assets/configs/senseiConfig.php");
 ?>
 
 <center>

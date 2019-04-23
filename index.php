@@ -1,5 +1,5 @@
 <?php
-    include("assets/config.php");
+    include("assets/configs/config.php");
 ?>
 <html>
     <head>
