@@ -1,5 +1,5 @@
 # CodeNinjas Lobby Screen
-This is a basic web application for the lobby TVs of CodeNinjas Hamilton Mill and Suwanee
+This is a basic web application for the lobby TVs of CodeNinjas Hamilton Mill
 
 ### How it Works
 This app can display
